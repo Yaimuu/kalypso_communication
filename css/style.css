@@ -2029,6 +2029,7 @@ img.zoom {
 .testimonial {
 	background: #0fc690;
 	padding: 60px 0px;
+
 }
 
 .testimonial .titlepage {
@@ -2129,6 +2130,10 @@ img.zoom {
 	width: 100%;
 	height: 100%;
 	padding: 30px;
+
+	margin-left: 50% ; /* immonde, je sais */
+
+
 }
 
 .testimonial .contact .contactus {
